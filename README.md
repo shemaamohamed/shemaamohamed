@@ -1,6 +1,8 @@
 # Shimaa Mohamed - Frontend Developer
 
-![Coding GIF](https://media.giphy.com/media/mkP0nwwOnhOPlGgvep/giphy.gif?cid=790b7611y6jk2cm1w5kriqsjmc5lnx4p51jtgj8ohflmb1k2&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+<div align="center">
+  <img src="https://media.giphy.com/media/mkP0nwwOnhOPlGgvep/giphy.gif?cid=790b7611y6jk2cm1w5kriqsjmc5lnx4p51jtgj8ohflmb1k2&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding GIF" />
+</div>
 
 
 Hi there! 👋 My name is Shimaa Mohamed, and I am a passionate frontend developer with a strong foundation in computer science and artificial intelligence. I love crafting intuitive and visually appealing web interfaces, ensuring users have a seamless experience across platforms.
