@@ -1,7 +1,7 @@
 # Shimaa Mohamed - Frontend Developer
 
 <div align="center">
-  <img src="https://media.giphy.com/media/mkP0nwwOnhOPlGgvep/giphy.gif?cid=790b7611y6jk2cm1w5kriqsjmc5lnx4p51jtgj8ohflmb1k2&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding GIF" />
+  <img width=200 height=200 src="https://media.giphy.com/media/mkP0nwwOnhOPlGgvep/giphy.gif?cid=790b7611y6jk2cm1w5kriqsjmc5lnx4p51jtgj8ohflmb1k2&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding GIF" />
 </div>
 
 
