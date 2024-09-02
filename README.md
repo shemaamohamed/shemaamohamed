@@ -23,7 +23,7 @@ As a frontend developer, I have hands-on experience in the following technologie
 ### Backend
 - Express.js
 - Mongoose
-- SQL (MySQL, PostgreSQL)
+- SQL (MySQL)
 
 ## 🌱 Always Learning
 In the ever-evolving tech landscape, I am committed to continuous learning and staying up-to-date with the latest trends. Currently, I am focused on enhancing my skills in the following areas:
