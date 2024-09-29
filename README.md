@@ -16,12 +16,13 @@ As a frontend developer, I have hands-on experience in the following technologie
 - CSS3
 - JavaScript
 - ReactJS
-- Redux
 - Bootstrap
-- Tailwind
+- React Bootstrap
 
 ### Backend
+
 - Express.js
+- Node.js
 - Mongoose
 - SQL (MySQL)
 
@@ -42,7 +43,7 @@ I believe in the power of collaboration and the open-source community. If you ar
 ## 💬 Let's Connect
 Have a question or want to discuss anything related to web development, machine learning, or software engineering? I'd love to chat! Feel free to reach out to me anytime.
 
-📫 **Email**: [shemaaeldakhakhny@gmail.com](#) 
+📫 **Email**: [shimaamohamed22620@gmail.com](#) 
 🔥 **LinkedIn**: [linkedin.com/in/shimaa-eldakhakhny-2b1b8b234](#)
 
 ## 🛠️ Technologies and Tools
