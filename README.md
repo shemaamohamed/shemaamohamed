@@ -26,13 +26,6 @@ As a frontend developer, I have hands-on experience in the following technologie
 - Mongoose
 - SQL (MySQL)
 
-## 🌱 Always Learning
-In the ever-evolving tech landscape, I am committed to continuous learning and staying up-to-date with the latest trends. Currently, I am focused on enhancing my skills in the following areas:
-
-- **Vue.js**: Diving into another powerful frontend framework.
-- **GraphQL**: Learning to build more efficient and flexible APIs.
-- **AWS**: Gaining insights into cloud services for scalable applications.
-- **Node.js**: for backend framework
 
 ## 🤖 Machine Learning
 With a background in AI, I also have experience in machine learning, and I enjoy exploring how it can enhance web applications.
