@@ -18,13 +18,16 @@ As a frontend developer, I have hands-on experience in the following technologie
 - ReactJS
 - Bootstrap
 - React Bootstrap
+- Next.js
+- Material-UI (MUI)
+- Tailwind CSS
 
 ### Backend
 
 - Express.js
 - Node.js
 - Mongoose
-- SQL (MySQL)
+
 
 
 ## 🤖 Machine Learning
