@@ -42,13 +42,5 @@ Have a question or want to discuss anything related to web development, machine 
 📫 **Email**: [shimaamohamed22620@gmail.com](#) 
 🔥 **LinkedIn**: [linkedin.com/in/shimaa-eldakhakhny-2b1b8b234](#)
 
-## 🛠️ Technologies and Tools
-Here are some of the technologies and tools I frequently work with:
-
-- JavaScript (ReactJS)
-- Python
-- MongoDB, SQL (MySQL)
-- HTML5, CSS3, Bootstrap
-- Git, GitHub
 
 Thank you for visiting my GitHub profile. Let's create amazing things together! 😄
