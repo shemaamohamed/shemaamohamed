@@ -8,7 +8,7 @@ Hi there! 👋 I'm **Shimaa Mohamed**, a dedicated **Frontend Developer** with a
 
 My passion lies in transforming concepts into beautiful, intuitive, and high-performing web experiences. I focus on creating seamless user interfaces that look great and function flawlessly across all devices.
 
----
+
 
 ## 🛠️ Tech Stack & Core Expertise
 
@@ -27,13 +27,13 @@ I thrive on building modern web applications using the following technologies:
 | **Backend** | Node.js, Express.js |
 | **Database** | Mongoose (MongoDB) |
 
----
+
 
 ## 🧠 Bridging Frontend & AI
 
 My foundation in **Artificial Intelligence** allows me to explore innovative ways to integrate machine learning models and concepts into web applications, enhancing functionality and user engagement. I am always looking for projects where tech stacks intersect.
 
----
+
 
 ## 🤝 Let's Collaborate & Connect
 
