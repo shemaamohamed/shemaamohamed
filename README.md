@@ -37,10 +37,13 @@ With a background in AI, I also have experience in machine learning, and I enjoy
 
 [![Email](https://img.shields.io/badge/Email-shimaamohamed22620@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shimaamohamed22620@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shimaa-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shimaa-eldakhakhny)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome&logoColor=white)](https://khamsat.com/user/shimaamohamed22_6/reviews)
 
 ## 👯 Collaboration
 I believe in the power of collaboration and the open-source community. If you are working on an exciting project and need a dedicated frontend developer with a passion for AI, count me in! I am always eager to collaborate on impactful projects.
+
+📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shimaa&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimaa&layout=compact&theme=radical" alt="Top Languages" /> </div>
 
 
 
