@@ -35,15 +35,13 @@ My foundation in **Artificial Intelligence** allows me to explore innovative way
 
 
 
-## 🤝 Let's Collaborate & Connect
 
-I believe in the power of open-source and collaborative development. If you are working on an exciting, impactful project and need a dedicated frontend developer with an eye for detail and an appreciation for AI integration, please reach out!
 
-[![Email](https://img.shields.io/badge/Email-shimaamohamed22620@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shimaamohamed22620@gmail.com)
+## 💬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shimaa-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shimaa-eldakhakhny)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome&logoColor=white)](https://khamsat.com/user/shimaamohamed22_6/reviews)
+
+[![Email](https://img.shields.io/badge/Email-shimaamohamed22620@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shimaamohamed22620@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shimaa-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shimaa-eldakhakhny) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome&logoColor=white)](https://khamsat.com/user/shimaamohamed22_6/reviews)
 
 
 
