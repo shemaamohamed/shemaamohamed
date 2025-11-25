@@ -43,7 +43,9 @@ With a background in AI, I also have experience in machine learning, and I enjoy
 I believe in the power of collaboration and the open-source community. If you are working on an exciting project and need a dedicated frontend developer with a passion for AI, count me in! I am always eager to collaborate on impactful projects.
 
 📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shimaa&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimaa&layout=compact&theme=radical" alt="Top Languages" /> </div>
+![Shimaa's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shemaamohamed&theme=radical)
+![Shimaa's top languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shemaamohamed&theme=radical)
+
 
 
 
