@@ -33,14 +33,16 @@ As a frontend developer, I have hands-on experience in the following technologie
 ## 🤖 Machine Learning
 With a background in AI, I also have experience in machine learning, and I enjoy exploring how it can enhance web applications.
 
+## 💬 Let's Connect
+
+[![Email](https://img.shields.io/badge/Email-shimaamohamed22620@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shimaamohamed22620@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shimaa-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shimaa-eldakhakhny)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
+
 ## 👯 Collaboration
 I believe in the power of collaboration and the open-source community. If you are working on an exciting project and need a dedicated frontend developer with a passion for AI, count me in! I am always eager to collaborate on impactful projects.
 
-## 💬 Let's Connect
-Have a question or want to discuss anything related to web development, machine learning, or software engineering? I'd love to chat! Feel free to reach out to me anytime.
 
-📫 **Email**: [shimaamohamed22620@gmail.com](#) 
-🔥 **LinkedIn**: [linkedin.com/in/shimaa-eldakhakhny-2b1b8b234](#)
 
 
 Thank you for visiting my GitHub profile. Let's create amazing things together! 😄
